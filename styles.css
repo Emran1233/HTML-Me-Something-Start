@@ -1,1 +1,19 @@
+/* Write your CSS here! */ 
+
+body { 
+    margin: 8px; 
+    display: block; 
+} 
+
+#mainHeading { 
+    color: blue; 
+} 
+
+#testP { 
+    color: orange;
+} 
+
+.funParagraph { 
+    font: 18px;
+}  
 /* Write your CSS here! */
